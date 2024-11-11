@@ -35,7 +35,7 @@ const App = () => {
           <img src = {imageUrl} alt = {title}/>
           <div className="category-body-container">
             <h1>{title}</h1>
-            <p>Show now</p>
+            {/* <p>Show now</p> */}
           </div>
         </div>
       )
